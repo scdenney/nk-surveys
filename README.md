@@ -1,8 +1,6 @@
 # Inference under Constraint: Methodological Reflections on Surveying North Korean Migrants
 
-This repository contains the PDF version of the slide deck presented at the  
-**European Centre for North Korean Studies (ECNK) Online Workshop**,  
-Panel 2: *Considerations When Analyzing North Korea*, on **July 15, 2025**.
+This repository contains the PDF version of the slide deck presented at the **European Centre for North Korean Studies (ECNK) Online Workshop**, Panel 2: *Considerations When Analyzing North Korea*, on **July 15, 2025**.
 
 **Title:** Inference under Constraint: Methodological Reflections on Surveying North Korean Migrants  
 **Presenter:** Steven Denney  
