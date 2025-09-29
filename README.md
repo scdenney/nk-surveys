@@ -1,6 +1,3 @@
-# nk-surveys
-Slide deck for ECNK Online Workshop 2025
-
 # Inference under Constraint: Methodological Reflections on Surveying North Korean Migrants
 
 This repository contains the PDF version of the slide deck presented at the  
